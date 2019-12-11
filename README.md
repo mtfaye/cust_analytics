@@ -1,1 +1,1 @@
-Customer Analytics for Retails
+Customers Analytic for Retails
