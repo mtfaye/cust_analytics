@@ -1,1 +1,1 @@
-### Retail's Customers Analytics 
+### Customers Analytics 
